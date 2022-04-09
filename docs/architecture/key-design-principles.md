@@ -9,8 +9,8 @@
 5. [KISS - keep it short and simple](#kiss---keep-it-short-and-simple)
 6. [YAGNI - you aren't gonna need it](#yagni---you-arent-gonna-need-it)
 7. [APO - avoid premature optimization](#apo---avoid-premature-optimization)
-   1. [What is APO principle and how it use?](#what-is-apo-principle-and-how-it-use)
-   2. [Disadvantages of thoughtlessly using this principle](#disadvantages-of-thoughtlessly-using-this-principle)
+    1. [What is APO principle and how it use?](#what-is-apo-principle-and-how-it-use)
+    2. [Disadvantages of thoughtlessly using this principle](#disadvantages-of-thoughtlessly-using-this-principle)
 8. [BDUF - big design up front](#bduf---big-design-up-front)
 9. [SOLID - design principles](#solid---design-principles)
 

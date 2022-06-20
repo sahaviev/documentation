@@ -3,7 +3,7 @@
 You can find different tricky tasks for determining execution order in the code below. 
 
 
-#### Task 1
+#### Task 1. Level: Medium
 
 ```javascript
 Promise.resolve(10)
@@ -30,7 +30,7 @@ Promise.resolve(10)
 Answer: 10, undefined, 'Error caught', 'New error'
 
 
-#### Task 2
+#### Task 2. Level: Easy
 
 ```javascript
 (function() {
@@ -43,7 +43,7 @@ Answer: 10, undefined, 'Error caught', 'New error'
 
 Answer: 1, 4, 3, 2
 
-#### Task 3
+#### Task 3. Level: Medium
 
 ```javascript
 const myPromise = (name) => Promise.resolve('I have resolved! ' + name)
@@ -64,7 +64,7 @@ secondFunction()
 
 Answer: `first`, `I have resolved! firstFunction`, `I have resolved! secondFunction`, `second`
 
-#### Task 4
+#### Task 4. Hard
 
 ```javascript
 const intervalId = setInterval(() => {
